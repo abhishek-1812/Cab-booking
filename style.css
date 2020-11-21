@@ -57,6 +57,10 @@ h5{
 #core{
     background-color: tomato;
 }
-@media only screen and (min-width: 480px) {
-    /* landscape mode */
+#ced{
+    font-weight: bold;
+    font-size: 30px;
+}
+.rs span{
+    color:tomato;
 }
